@@ -14,3 +14,4 @@
   - [helloWorld](./CourseWork/helloWorld/Test.java)
 - [ ] [java first program](https://login.codingdojo.com/m/315/9299/62834)
   - [firstJavaProgram](./CourseWork/firstJavaProgram/Main.java)
+- [ ] [variables](https://login.codingdojo.com/m/315/9299/62836)
