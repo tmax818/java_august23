@@ -1,0 +1,10 @@
+.page{
+	display: flex;
+	justify-content: center
+}
+
+.container{
+	border: 3px solid black;
+	width: 300px;
+	padding: 10px;
+}
