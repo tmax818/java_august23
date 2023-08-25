@@ -16,3 +16,5 @@
   - [firstJavaProgram (p)](./CourseWork/firstJavaProgram/Main.java)
 - [ ] [variables](https://login.codingdojo.com/m/315/9299/62836)
   - [variables](./CourseWork/variables/Main.java)
+- [ ] [conditionals & operators](https://login.codingdojo.com/m/315/9299/62838)
+  - [ ] [conditionalsAndOperators](./CourseWork/conditionalsAndOperators/Main.java) 

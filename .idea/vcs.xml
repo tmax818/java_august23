@@ -2,11 +2,26 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/AustinSerb/CareSoft-Interfaces" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StudentWork/IsaiahSmyth/ZooKeeper/Zookeeper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/IsaiahSmyth/caresoft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/JohnLee/bankaccountJava" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StudentWork/JohnLee/cafe_business_logic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/JohnLee/caresoft_interfaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/JohnLee/fruityLoops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/KyMiller/CareSoft-Assignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/KyMiller/Daikichi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/KyMiller/Fruity-Loops-Assignment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StudentWork/KyMiller/JavaAssingmentBankAccount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/KyMiller/Omikuji-Form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/KyMiller/Zookeeper" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StudentWork/KyleKorinek/Assignment-1---Cafe-Business" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/MarkCarthon/Java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StudentWork/SylivaDang/bank_account_java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StudentWork/SylivaDang/cafeBusinessLogic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/SylivaDang/caresoft_interfaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/SylivaDang/daikichi_routes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/SylivaDang/fruityloop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentWork/SylivaDang/omikuji" vcs="Git" />
   </component>
 </project>
